@@ -81,7 +81,7 @@ let g:javascript_conceal_super      = "Ω"
 "  The following are some extra mappings/configs to enhance my personal
 "  VIM experience
 
-colorscheme monokai
+colorscheme spacegray
 
 " set , as mapleader
 let mapleader = ","
